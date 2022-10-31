@@ -1,4 +1,4 @@
-# Hänga gubbe - inlämningssuppgift
+# Hänga gubbe - inlämningssuppgift.
 
 ## Syfte
 
